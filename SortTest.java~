@@ -1,0 +1,21 @@
+import java.util.io*;
+  import java.util.*;
+
+
+
+public class SortTest.java{
+  public static vod main(String[]args){
+    int a[]= {3, 5 , 10, 23, 25, 8, 7, 9, 50, 47};
+    MyArray.java m=new m(a);
+    m.insertionSort();
+    m.printArray;
+     m.mergeSort();
+      m.printArray;
+      m.quickSort();
+       m.printArray;
+  }
+  
+  
+  
+  
+}

@@ -1,0 +1,51 @@
+import java.util.io*;
+  import java.util.*;
+
+
+
+public class MyArray.java{
+  int b[]=new int[10];
+  for(int i=0;i<b.length;i++){
+   b[i]=a[i]; 
+   }
+  
+  
+  
+  public MyArray.java(int array[]){
+    array=b;
+    
+  }
+  
+  public static int []insertionSort(int a[]){
+    
+    array.sort(b)
+     return b;
+  }
+   public static int []mergeSort(int a[]){
+    
+    array.sort(b)
+    return b; 
+  }
+    public static int []quickSort(int a[]){
+    
+    array.sort(b)
+   return b;
+  }
+    public void printArray(){
+      for(int i=0;i<b.length;i++){
+       System.out.print(b[i]+" "); 
+        
+      }
+      
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
